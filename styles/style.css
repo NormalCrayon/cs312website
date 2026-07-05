@@ -1,0 +1,35 @@
+/* Luke Dickerson Module 7 July 5, 2026 */
+
+body {
+    background-color: rgb(242, 243, 243);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    border: 20px solid rgb(32, 117, 243);
+    width: 80%;
+}
+h1 {
+    color: rgb(32, 117, 243);
+    text-align: center;
+    margin-top: 50px;
+}
+h2 {
+    color: rgb(229, 184, 11);
+    text-align: center;
+    margin-top: 30px;
+}
+p {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin: 0px;
+    line-height: 1.6;
+    font-size: 15px;
+}
+a {
+    color: #0000EE;
+    text-decoration: none;
+}
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
