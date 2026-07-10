@@ -1,7 +1,7 @@
-/* Luke Dickerson Module 7 July 5, 2026 */
+/* Luke Dickerson Module 8 July 10, 2026 */
 
 body {
-    background-color: rgb(242, 243, 243);
+    background: linear-gradient(to bottom, rgb(242, 243, 243), rgb(181, 181, 181));
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0 auto;
     padding: 20px;
@@ -12,11 +12,15 @@ h1 {
     color: rgb(32, 117, 243);
     text-align: center;
     margin-top: 50px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
 }
 h2 {
     color: rgb(229, 184, 11);
     text-align: center;
     margin-top: 30px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
 }
 p {
     color: rgb(0, 0, 0);
@@ -32,4 +36,6 @@ a {
 nav {
     text-align: center;
     margin-top: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
 }
